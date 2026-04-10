@@ -24,7 +24,6 @@ SET mapreduce.output.fileoutputformat.compress.codec=org.apache.hadoop.io.compre
 SET hive.stats.autogather=false;
 SET hive.compute.query.using.stats=false;
 SET hive.stats.fetch.column.stats=false;
-SET hive.stats.fetch.partition.stats=false;
 
 -- =========================
 -- 1. CLEAN
